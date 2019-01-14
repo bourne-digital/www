@@ -1,0 +1,13 @@
+{
+  "name": "@bourne-digital/www",
+  "version": "1.0.0",
+  "description": "Front-end",
+  "main": "index.js",
+  "repository": "git@github.com:bourne-digital/www.git",
+  "author": "Bourne Digital, Inc.",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "monaco-editor": "^0.15.6"
+  }
+}
